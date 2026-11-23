@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+ST+GEORGE+ISLAND+SEE+PRIBILOF+ISLANDS+AL",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+ST+GEORGE+ISLAND+SEE+PRIBILOF+ISLANDS+AL",
+  "title": "Federal Register - AK ST GEORGE ISLAND SEE PRIBILOF ISLANDS AL",
+  "fetched_at": "2026-11-23T17:27:42.998919Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 197104,
+  "sha256": "c3ab56970dd3ffd1762c38297fb1c9330567ee112303c9ca417281e2dd92edd8",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
